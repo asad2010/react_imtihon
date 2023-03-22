@@ -1,0 +1,16 @@
+.withbgtext {
+    background: url("./podtext.png");
+    background-size: 120px 15px;
+    background-repeat: no-repeat;
+    background-position: -40px 30px;
+    padding-left: 50px;
+   
+}
+.withbgtext2 {
+    background: url("./podtext.png");
+    background-size: 120px 15px;
+    background-repeat: no-repeat;
+    background-position: -40px 75px;
+    padding-left: 50px;
+   
+}

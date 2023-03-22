@@ -1,0 +1,17 @@
+.sc2p1 {
+    
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+
+color: #202020;
+
+}
+
+.brd {
+    border: 1px solid #F4F4F4;
+}

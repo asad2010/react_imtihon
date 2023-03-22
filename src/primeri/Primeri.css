@@ -1,0 +1,30 @@
+.primer {
+    background: url("./element.png");
+    background-size: 30% 100%;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+.primeri-btn {
+    width: 263px;
+    height: 50px;
+    filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.06));   
+    background: #F98C37;
+    border-radius: 2px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    border: none;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    /* identical to box height, or 20px */
+
+
+    color: #F4F4F4;
+}
+
+.black {
+    width: 30%;
+    height: 100px;
+    background: black;
+}
